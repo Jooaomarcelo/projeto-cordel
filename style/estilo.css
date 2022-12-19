@@ -39,10 +39,10 @@ header > p {
 }
 
 a {
-    font-family: var(--fonte2);
+    font-family: var(--fonte1);
+    font-weight: bold;
     text-decoration: none;
     color: white;
-    font-size: 1.2em;
 }
 
 a:hover{
